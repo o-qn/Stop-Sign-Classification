@@ -2,7 +2,7 @@
 
 This repository contains my final assessment project for the Computer Vision course. The objective of this project was to develop a robust, end-to-end Deep Learning pipeline capable of classifying distinct types of traffic signs from image data. 
 
-Everything is self-contained within the `Sign Classification.ipynb` notebook, which walks through data preprocessing, exploratory data analysis, class balancing, model architecture design, training, and detailed evaluation metrics.
+Everything is self-contained within the `StopSignClassification.ipynb` notebook, which walks through data preprocessing, exploratory data analysis, class balancing, model architecture design, training, and detailed evaluation metrics.
 
 ## What I Did in This Project
 
