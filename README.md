@@ -30,4 +30,4 @@ pip install pandas numpy matplotlib seaborn scikit-learn tensorflow
 ### 2. Fire up the notebook
 
 Download the repository, make sure your image dataset is structured as expected by the paths in the notebook, and run:
-## jupyter notebook "StopSignClassification.ipynb"
+Jupyter notebook's `StopSignClassification.ipynb`
